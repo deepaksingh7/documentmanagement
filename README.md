@@ -1,4 +1,4 @@
-# documentmanagement
+# Document Management
 ### Resourse version *1.0.0*
 
 ### Objective: Build a document management solution on the cloud
